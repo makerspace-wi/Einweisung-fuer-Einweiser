@@ -2,19 +2,19 @@
 
 ## 1. Allgemeine Sicherheitseinweisung
 Nehmen an der Einweisung Neumitglieder (in diesem Fall Mitglieder für die das die erste Einweisung ist) teil, bekommen diese erstmal eine allgemeine Sicherheitseinweisung 
-  - Hinweis dass auf eigene Gefahr gearbeitet wird
+  - Hinweis, dass auf eigene Gefahr gearbeitet wird
   - festes Schuhwerk in den Werkstätten empfohlen
   - persönliche Schutzausrüstung muss selbst mitgebracht werden und kann im Flur aufbewahrt werden
-- Fluchtwege zeigen und Hinweis dass die nicht zugestellt werden dürfen
- - Feuerlöscher zeigen und Hinweis dass die nicht zugestellt werden dürfen
- - erste Hilfekästen zeigen
- - Übernachtungsverbot (keine Rauchmelder)
- - nach 22:00 keine lauten Maschinen oder Maschinen mit Absaugung mehr nutzen
- - keine Speisen und Getränke in Holz- und Metallwerkstatt 
+  - Fluchtwege zeigen und Hinweis dass die nicht zugestellt werden dürfen
+  - Feuerlöscher zeigen und Hinweis dass die nicht zugestellt werden dürfen
+  - erste Hilfekästen zeigen
+  - Übernachtungsverbot (keine Rauchmelder)
+  - nach 22:00 keine lauten Maschinen oder Maschinen mit Absaugung mehr nutzen
+  - keine Speisen und Getränke in Holz- und Metallwerkstatt 
    
 ## 2. Maschinenbezogene Einweisung
 Hinweise auf persönliche Schutzausrüstung wie
-- Schutzbrille bei zerspannenden Maschinen 
+- Schutzbrille bei zerspanenden Maschinen 
 - keine Handschuhe bei rotierden Maschinen
 - lange Haare sicher hochbinden
 - enganliegende Kleidung, hochgekrempelte Ärmel nach innen umschlagen
