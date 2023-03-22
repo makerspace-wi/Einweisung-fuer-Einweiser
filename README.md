@@ -40,9 +40,5 @@ Nach der Arbeit aufräumen und sauber machen
  - Bargeld in den Schrank legen,  Florian sammelt das regelmäßig ein. Bitte darauf achten dass auch Barzahlung am iZettl gebucht wird, damit die Abrechnung stimmt.
  - Beide Gerät zurücklegen und an die Ladekabel anschließen 
  
-Freischaltung 
-erfolgt über Symcon, dafür gibt es einen Werkstattleiter Account
-Adresse: bit.ly/adminms
-Kennwort: 4werkstattleiter
 der Rest kommt morgen
 
