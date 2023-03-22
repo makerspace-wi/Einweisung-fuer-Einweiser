@@ -17,6 +17,7 @@ Hinweise auf persönliche Schutzausrüstung wie
 - Schutzbrille bei zerspannenden Maschinen 
 - keine Handschuhe bei rotierden Maschinen
 - lange Haare sicher hochbinden
+- enganliegende Kleidung, hochgekrempelte Ärmel nach innen umschlagen
 - 
 Erklärung Notausschalter
 - wo ist er
