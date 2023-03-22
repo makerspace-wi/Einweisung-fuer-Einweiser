@@ -13,10 +13,10 @@ Nehmen an der Einweisung Neumitglieder (in diesem Fall Mitglieder für die das d
  - keine Speisen und Getränke in Holz- und Metallwerkstatt 
    
 ## 2. Maschinenbezogene Einweisung
-- Hinweise auf persönliche Schutzausrüstung wie
+Hinweise auf persönliche Schutzausrüstung wie
 - Schutzbrille bei zerspannenden Maschinen 
 - keine Handschuhe bei rotierden Maschinen
-- lange Haar sicher hochbinden
+- lange Haare sicher hochbinden
 - 
 Erklärung Notausschalter
 - wo ist er
