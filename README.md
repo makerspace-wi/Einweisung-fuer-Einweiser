@@ -22,6 +22,7 @@ Erklärung Notausschalter
 - wo ist er
 - was schaltet er ab
 - was ist beim Wiederanlauf zu beachten 
+
 Sichere Bedienung der Maschine
 
 keine Maschine darf unbeaufsichtigt laufen
