@@ -22,10 +22,12 @@ Erklärung Notausschalter
 - wo ist er
 - was schaltet er ab
 - was ist beim Wiederanlauf zu beachten 
-- 
 Sichere Bedienung der Maschine
+
 keine Maschine darf unbeaufsichtigt laufen
+
 Nach der Arbeit aufräumen und sauber machen 
+
 
 ## 3. Verwaltungskram
  - Der Einweiserschrank befindet sich im Seminarraum 
