@@ -16,7 +16,7 @@ Nehmen an der Einweisung Neumitglieder (in diesem Fall Mitglieder für die das d
    
 ## 2. Maschinenbezogene Einweisung
 Hinweise auf persönliche Schutzausrüstung wie
-- Laserschutzbrille für verschiedene Wellenlängen (erklären warum)
+- Laserschutzbrille für verschiedene Wellenlängen (erklären warum) am Laser Cutter & Laser Engraver
 - Schutzbrille bei zerspanenden Maschinen 
 - keine Handschuhe bei rotierden Maschinen
 - lange Haare sicher hochbinden
