@@ -24,7 +24,8 @@ Hinweise auf persönliche Schutzausrüstung wie
 Erklärung Notausschalter
 - wo ist er
 - was schaltet er ab
-- was ist beim Wiederanlauf zu beachten 
+- was ist beim Wiederanlauf zu beachten
+-  
 Sicherheitseinrichtungen dürfen nicht überbrückt, abgebaut oder manipuliert werden
 
 Sichere Bedienung der Maschine
