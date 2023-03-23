@@ -8,6 +8,7 @@ Nehmen an der Einweisung Neumitglieder (in diesem Fall Mitglieder für die das d
   - Fluchtwege zeigen und Hinweis dass die nicht zugestellt werden dürfen
   - Feuerlöscher zeigen und Hinweis dass die nicht zugestellt werden dürfen
   - <i>Erste Hilfe</i> - Kästen zeigen
+  - Verbandsbuch und Augenduschen erklären
   - Übernachtungsverbot (keine Rauchmelder)
   - nach 22:00 keine lauten Maschinen oder Maschinen mit Absaugung mehr nutzen
   - keine Speisen und Getränke in Holz- und Metallwerkstatt 
