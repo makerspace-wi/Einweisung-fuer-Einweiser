@@ -12,6 +12,7 @@ Nehmen an der Einweisung Neumitglieder (in diesem Fall Mitglieder für die das d
   - Übernachtungsverbot (keine Rauchmelder)
   - nach 22:00 keine lauten Maschinen oder Maschinen mit Absaugung mehr nutzen
   - keine Speisen und Getränke in Holz- und Metallwerkstatt 
+  - bei festgestellten Mängeln/Defekten an der Maschine nicht weiterarbeiten; Maschine ausschalten und eine Information an den Kanal <i>Schadensmelder</i> setzen. Reparaturversuche nur dann unternehmen wenn das fachliche Wissen vorhanden ist
    
 ## 2. Maschinenbezogene Einweisung
 Hinweise auf persönliche Schutzausrüstung wie
