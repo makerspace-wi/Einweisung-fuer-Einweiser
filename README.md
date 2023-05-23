@@ -48,6 +48,4 @@ Nach der Arbeit aufräumen und sauber machen
  - Bargeld in den Schrank legen,  Florian sammelt das regelmäßig ein. Bitte darauf achten dass auch Barzahlung am iZettl gebucht wird, damit die Abrechnung stimmt.
  - Beide Gerät zurücklegen und an die Ladekabel anschließen 
  
-der Rest kommt morgen
 
-Helga, das sieht doch schon gut aus!
