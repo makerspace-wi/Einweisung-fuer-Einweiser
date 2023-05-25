@@ -46,6 +46,7 @@ Nach der Arbeit aufräumen und sauber machen
  - die 5 bzw. 15 Euro können bar oder bevorzugt per EC-Karte bezahlt werden. Dazu am Handy (liegt im Einweiserschrank) die App iZettl starten. Dann den Bereich und die Maschine auswählen. Danach auswählen ob bar oder mit Karte gezahlt wird. Wird mit Karte gezahlt,  das Lesegerät einschalten und Karte dranhalten.
  - ggf. email-adresse eingeben,  wenn ein Beleg gewünscht wird
  - Bargeld in den Schrank legen,  Florian sammelt das regelmäßig ein. Bitte darauf achten dass auch Barzahlung am iZettl gebucht wird, damit die Abrechnung stimmt.
- - Beide Gerät zurücklegen und an die Ladekabel anschließen 
+ - Beide Gerät zurücklegen und an die Ladekabel anschließen
+ - Im Slack im Channel "Werkstattleiter" die Personen und Maschinen melden damit ein Admin die Freischaltung vornehmen kann. 
  
 
